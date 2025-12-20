@@ -12,7 +12,7 @@ I mostly work with **Unity (C#)** and enjoy experimenting with gameplay systems,
 - 👁‍🗨️ .NET development
 
 ## Projects
-- **Bloom for You** — a point-and-click game made for a game jam  
+- **Bloom for You** — a point-and-click game made for a game jam [▶ Play on itch.io](https://terrces.itch.io/bloom-for-you)
 - Various prototypes and unfinished ideas (learning by doing)
 
 ## Currently learning
