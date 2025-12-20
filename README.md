@@ -12,8 +12,14 @@ I mostly work with **Unity (C#)** and enjoy experimenting with gameplay systems,
 - 👁‍🗨️ .NET development
 
 ## Projects
-- **Bloom for You** — a point-and-click game made for a game jam [▶ Play on itch.io](https://terrces.itch.io/bloom-for-you)
-- Various prototypes and unfinished ideas (learning by doing)
+- **Bloom for You** — point-and-click game made for a game jam  
+  ▶ Play on itch.io: https://terrces.itch.io/bloom-for-you
+
+- **body, birds, drop** — small vertical runner made for Ludum Dare 58  
+  ▶ Play on itch.io: https://tercs.itch.io/body-birds-drop  
+  🛠 Repo: https://github.com/Terrces/BodyBirdsDrop
+  
+- Various prototypes and experiments focused on learning and iteration
 
 ## Currently learning
 - Clean code and architecture in Unity
@@ -21,8 +27,8 @@ I mostly work with **Unity (C#)** and enjoy experimenting with gameplay systems,
 - React and other web technologies
 
 ## Goals
-- Finish more small games
-- Improve code quality
-- Grow as a game developer
+- Ship more small and complete games
+- Write cleaner and more maintainable code
+- Grow as an indie game developer
 
 Thanks for stopping by!
