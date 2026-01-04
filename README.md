@@ -13,13 +13,17 @@ I mostly work with **Unity (C#)** and enjoy experimenting with gameplay systems,
 
 ## Projects
 - **Bloom for You** — point-and-click game made for a game jam  
-  ▶ Play on itch.io: https://terrces.itch.io/bloom-for-you
+  ▶ [Play on itch.io](https://terrces.itch.io/bloom-for-you)
 
 - **body, birds, drop** — small vertical runner made for Ludum Dare 58  
-  ▶ Play on itch.io: https://tercs.itch.io/body-birds-drop  
-  🛠 Repo: https://github.com/Terrces/BodyBirdsDrop
+  ▶ [Play on itch.io](https://tercs.itch.io/body-birds-drop)
+  🛠 [Repo](https://github.com/Terrces/BodyBirdsDrop)
   
 - Various prototypes and experiments focused on learning and iteration
+
+## Actual projects and repositories
+- **In Bunker** — Immersive survival-horror project
+  🛠 [Repo](https://github.com/Terrces/InBunker)
 
 ## Currently learning
 - Clean code and architecture in Unity
