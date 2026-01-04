@@ -13,7 +13,7 @@ I mostly work with **Unity (C#)** and enjoy experimenting with gameplay systems,
 
 ## Projects
 - **Bloom for You** — point-and-click game made for a game jam  
-  ▶ [Play on itch.io](https://terrces.itch.io/bloom-for-you)
+  ▶ [Play on itch.io](https://tercs.itch.io/bloom-for-you)
 
 - **body, birds, drop** — small vertical runner made for Ludum Dare 58  
   ▶ [Play on itch.io](https://tercs.itch.io/body-birds-drop)
