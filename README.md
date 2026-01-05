@@ -19,7 +19,7 @@ I mostly work with **Unity (C#)** and enjoy experimenting with gameplay systems,
   ▶ [Play on itch.io](https://tercs.itch.io/body-birds-drop)
   🛠 [Repo](https://github.com/Terrces/BodyBirdsDrop)
 
-- **DeliveryExpress** — My first 3D project made in Unity
+- **DeliveryExpress** — My first 3D project made in Unity  
   ▶ [Play on itch.io](https://tercs.itch.io/delivery-express)
   🛠 [Repo](https://github.com/Terrces/DeliveryExpress)
   
