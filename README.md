@@ -12,12 +12,16 @@ I mostly work with **Unity (C#)** and enjoy experimenting with gameplay systems,
 - 👁‍🗨️ .NET development
 
 ## Projects
-- **Bloom for You** — point-and-click game made for a game jam  
+- **Bloom for You** — Point-and-click game made for a game jam  
   ▶ [Play on itch.io](https://tercs.itch.io/bloom-for-you)
 
-- **body, birds, drop** — small vertical runner made for Ludum Dare 58  
+- **body, birds, drop** — Small vertical runner made for Ludum Dare 58  
   ▶ [Play on itch.io](https://tercs.itch.io/body-birds-drop)
   🛠 [Repo](https://github.com/Terrces/BodyBirdsDrop)
+
+- **DeliveryExpress** — My first 3D project made in Unity
+  ▶ [Play on itch.io](https://tercs.itch.io/delivery-express)
+  🛠 [Repo](https://github.com/Terrces/DeliveryExpress)
   
 - Various prototypes and experiments focused on learning and iteration
 
