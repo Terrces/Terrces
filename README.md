@@ -27,7 +27,7 @@ I mostly work with **Unity (C#)** and enjoy experimenting with gameplay systems,
 
 ## Actual projects and repositories
 - **Lost in Mind** — small horror project
-  🛠 [Repo]([https://github.com/Terrces/InBunker](https://github.com/Terrces/Lost-in-mind))
+  🛠 [Repo](https://github.com/Terrces/Lost-in-mind)
 
 ## Currently learning
 - Clean code and architecture in Unity
