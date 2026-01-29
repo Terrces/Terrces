@@ -26,8 +26,8 @@ I mostly work with **Unity (C#)** and enjoy experimenting with gameplay systems,
 - Various prototypes and experiments focused on learning and iteration
 
 ## Actual projects and repositories
-- **In Bunker** — Immersive survival-horror project
-  🛠 [Repo](https://github.com/Terrces/InBunker)
+- **Lost in Mind** — small horror project
+  🛠 [Repo]([https://github.com/Terrces/InBunker](https://github.com/Terrces/Lost-in-mind))
 
 ## Currently learning
 - Clean code and architecture in Unity
