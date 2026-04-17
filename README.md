@@ -26,8 +26,8 @@ I mostly work with **Unity (C#)** and enjoy experimenting with gameplay systems,
 - Various prototypes and experiments focused on learning and iteration
 
 ## Actual projects and repositories
-- **Lost in Mind** — small horror project
-  🛠 [Repo](https://github.com/Terrces/Lost-in-mind)
+- **Bloom for you new** — cozy game project
+  🛠 [Repo](https://github.com/Terrces/bloom-for-you-new)
 
 ## Currently learning
 - Clean code and architecture in Unity
